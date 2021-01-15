@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face{font-family: "light"; src:url(../webfont/NanumSquareL.ttf)}
+@font-face{font-family: "regular"; src:url(../webfont/NanumSquareR.ttf)}
+@font-face{font-family: "bold"; src:url(../webfont/NanumSquareB.ttf)}
+@font-face{font-family: "extra"; src:url(../webfont/NanumSquareEB.ttf)}
+
+*{margin: 0; padding: 0; color: #333; font-family: "regular"}
+ul, li, ol{list-style: none}
+a{text-decoration: none; color: #333}
+img{border: 0;}
+.clear{clear: both}
